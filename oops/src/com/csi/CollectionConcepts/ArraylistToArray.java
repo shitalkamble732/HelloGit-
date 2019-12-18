@@ -22,6 +22,8 @@ public class ArraylistToArray {
 	        System.out.println("Converting Array to ArrayList" );  
 	        List<String>l2 = new ArrayList<>();  
 	        l2 =  Arrays.asList(item);  
-	        System.out.println(l2);  
+	        System.out.println(l2); 
+	        
+	        //converting arraylist to array
 	    }  
 	}  
